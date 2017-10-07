@@ -22,6 +22,16 @@ it will be helpful in situations that require to test new things without effect 
 
 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+it will combine the work of two different branch in one branch, the diagram it is usefull way to analyse the branches and compare it with final one.
+
+
+
+
+
+
+
 How do the diagrams help you visualize the branch structure?
 
 it will easilize understanding of commit history.
