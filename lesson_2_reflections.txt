@@ -28,10 +28,15 @@ it will combine the work of two different branch in one branch, the diagram it i
 
 
 
-
-
-
-
 How do the diagrams help you visualize the branch structure?
 
 it will easilize understanding of commit history.
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+same cases when merging files do not relate to each other then the automatic merging is the easy and best choice, otherwise, manual merging will be the correct choice.
+
+
+
